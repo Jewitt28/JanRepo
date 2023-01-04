@@ -1,2 +1,3 @@
-Hopefully this is a conflict
+Text
 New Text
+Third Text 
